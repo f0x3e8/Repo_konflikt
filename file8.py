@@ -1,2 +1,2 @@
 print("Pierwsza Linijka")
-print("Druga Linijka")
+print("Pierwsza Linijka")
